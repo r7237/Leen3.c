@@ -1,5 +1,5 @@
-
 #include<stdio.h>
+#include<coni.h>
 int main()
 {
 int hrs1,hrs2,mins1,mins2,a,b;
@@ -11,4 +11,5 @@ a=hrs1-hrs2;
 b=mins1-mins2;
 printf("%d %d",a,b);
 return 0;
+ getch ();
  }
