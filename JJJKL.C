@@ -1,6 +1,7 @@
 #include<stdio.h>
+#include,conio.h>
 int main()
-  {
+{
 char n;
 printf("Enter the character:");
 scanf("%c",&n);
