@@ -1,5 +1,5 @@
-
 #include<stdio.h>
+#include<conio.h>
 void main()
 {
 int mins,hrs,rmin;
@@ -8,6 +8,6 @@ scanf("%d",&mins);
 hrs=mins/60;
 rmin=mins%60;
 printf("%d %d",hrs,rmin);
+getch ();
 }
 
-© 2018 GitHub, Inc.
