@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+#incllude<conio.h>
 int main()
 {
     int count=0,len;
