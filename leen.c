@@ -1,5 +1,6 @@
 
 #include <stdio.h>
+#incllude<conio.h>
 void main() 
 {
 int i,count=0,count1=0;
