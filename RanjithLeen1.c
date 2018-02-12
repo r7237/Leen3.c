@@ -1,12 +1,12 @@
 
 #include <stdio.h>
-#include <ctype.h>
+#include <conio.h>
 int main()
 {
     int count=0,len;
     char str[100];
    scanf(" %[^\n]", str);
-    
+   
     len = strlen(str);
     for(int i = 0; i != len; i++) 
     {
