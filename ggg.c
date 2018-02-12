@@ -1,4 +1,5 @@
 #include<stdio.h>
+#include<conio.h>
 void main()
 {
 int f1=0,f2=1,n,i,c;
