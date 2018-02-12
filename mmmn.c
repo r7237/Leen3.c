@@ -1,7 +1,5 @@
-
 #include <stdio.h>
- 
-int main()
+ int main()
 {
     int array[50], size, i, largest;
     printf("\n Enter the size of the array: ");
